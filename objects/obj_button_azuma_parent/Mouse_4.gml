@@ -1,0 +1,1 @@
+obj_cursor.id_azuma = id_azuma;

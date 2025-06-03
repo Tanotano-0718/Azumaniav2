@@ -1,0 +1,1 @@
+draw_text_align(x, y,fa_center, fa_middle, tutorial_text, fnt_menu, c_black);

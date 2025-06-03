@@ -1,0 +1,1 @@
+draw_text_align(x, y, fa_middle, fa_center, "配置可能数残り:"+string(global.limit), fnt_menu, c_black)

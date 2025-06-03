@@ -1,0 +1,1 @@
+draw_text_align(x,room_height/3,fa_middle,fa_center,"ゲームオーバー",c_black,fnt_title);

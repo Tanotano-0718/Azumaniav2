@@ -1,0 +1,65 @@
+[
+    {
+        "id": "1",
+        "name": "suu",
+        "hp": "50",
+        "speed": "5",
+        "attack": "5"
+    },
+    {
+        "id": "2",
+        "name": "bombtos",
+        "hp": "30",
+        "speed": "5",
+        "attack": "7"
+    },
+    {
+        "id": "3",
+        "name": "gungas",
+        "hp": "100",
+        "speed": "3",
+        "attack": "1"
+    },
+    {
+        "id": "4",
+        "name": "jia",
+        "hp": "40",
+        "speed": "8",
+        "attack": "3"
+    },
+    {
+        "id": "5",
+        "name": "leafly",
+        "hp": "30",
+        "speed": "5",
+        "attack": "5"
+    },
+    {
+        "id": "6",
+        "name": "millotolia",
+        "hp": "50",
+        "speed": "5",
+        "attack": "5"
+    },
+    {
+        "id": "7",
+        "name": "pot",
+        "hp": "30",
+        "speed": "5",
+        "attack": "3"
+    },
+    {
+        "id": "8",
+        "name": "ropper",
+        "hp": "50",
+        "speed": "5",
+        "attack": "5"
+    },
+    {
+        "id": "9",
+        "name": "tumuji",
+        "hp": "50",
+        "speed": "5",
+        "attack": "7"
+    }
+]

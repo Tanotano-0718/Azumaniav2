@@ -1,0 +1,81 @@
+{
+    "player":{
+        "angel":{
+            "hp": 30,
+            "spd": 5,
+            "atk": 7
+        },
+        "devil":{
+            "hp": 30,
+            "spd": 5,
+            "atk": 3
+        },
+        "flame":{
+            "hp": 50,
+            "spd": 5,
+            "atk": 7
+        },
+        "flower":{
+            "hp": 30,
+            "spd": 5,
+            "atk": 5
+        },
+        "haniwa":{
+            "hp": 100,
+            "spd": 3,
+            "atk": 1
+        },
+        "water":{
+            "hp": 40,
+            "spd": 8,
+            "atk": 3
+        }
+    },
+    "enemy":{
+        "suu":{
+            "hp": 50,
+            "spd": 5,
+            "atk": 5
+        },
+        "bombtos":{
+            "hp": 30,
+            "spd": 5,
+            "atk": 7
+        },
+        "gungas":{
+            "hp": 100,
+            "spd": 3,
+            "atk": 1
+        },
+        "jia":{
+            "hp": 40,
+            "spd": 8,
+            "atk": 3
+        },
+        "leafly":{
+            "hp": 30,
+            "spd": 5,
+            "atk": 5
+        },
+        "millotolia":{
+            "hp": 50,
+            "spd": 5,
+            "atk": 5
+        },
+        "pot":{
+            "hp": 30,
+            "spd": 5,
+            "atk": 3
+        },
+        "ropper":{
+            "hp": 50,
+            "spd": 5,
+            "atk": 5
+        },
+        "tumuji":{
+            "hp": 30,
+            "spd": 5,
+            "atk": 5
+        }
+    }
+}

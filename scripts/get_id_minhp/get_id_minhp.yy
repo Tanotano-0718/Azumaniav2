@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"get_id_minhp",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"get_id_minhp",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
